@@ -11,12 +11,12 @@ Utilizamos a metodologia PBL (Problem/Project Based Learning), sendo apresentado
 
 ## Organização
 
-- Aulas (Desenvolvimento em sala-PBL)
+- [Aulas (Desenvolvimento em sala-PBL)](https://github.com/Tiagoeem/Mineracao_de_Dados-PosGraduacao/tree/master/Aulas%20(Desenvolvimento%20em%20sala-PBL))
     - 2020
     - 2021
     - ...
 - Datasets
-- Trabalhos/Projetos de **alunos**
+- [Trabalhos/Projetos de **alunos**](https://github.com/Tiagoeem/Mineracao_de_Dados-PosGraduacao/tree/master/Trabalhos-Projetos%20de%20alunos)
     - 2020
     - 2021
     - ...
