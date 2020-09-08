@@ -15,7 +15,7 @@ Utilizamos a metodologia PBL (Problem/Project Based Learning), sendo apresentado
     - 2020
     - 2021
     - ...
-- Datasets
+- [Datasets](https://github.com/Tiagoeem/Mineracao_de_Dados-PosGraduacao/tree/master/Datasets)
 - [Trabalhos/Projetos de **alunos**](https://github.com/Tiagoeem/Mineracao_de_Dados-PosGraduacao/tree/master/Trabalhos-Projetos%20de%20alunos)
     - 2020
     - 2021
