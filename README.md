@@ -1,7 +1,9 @@
 # Mineração de Dados
 
 Nível: **Pós-Graduação**
+
 Disciplina criada e lecionada por: [Prof. Tiago Sanches da Silva](https://www.linkedin.com/in/tiago-sanches-da-silva-a5b09523/) e [Prof. Marcelo Lafetá](https://www.linkedin.com/in/marcelo-lafet%C3%A1-lima/)
+
 Instituição: [Instituto Mauá de Tecnologia](https://www.maua.br)
 
 Esta disciplina faz parte do curso especialização [**Ciência de Dados e Inteligência Artificial**](https://maua.br/pos-graduacao/especializacao-360h/ciencia-de-dados-e-inteligencia-artificial) do Instituto Mauá de Tecnologia.
